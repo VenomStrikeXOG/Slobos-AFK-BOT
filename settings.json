@@ -5,7 +5,7 @@
     "password": "",
     "type": "offline"
   },
-  "server": .{
+  "server": {
     "ip": "VenomStrikeXOG.aternos.me",
     "port": 61632,
     "version": "1.21"

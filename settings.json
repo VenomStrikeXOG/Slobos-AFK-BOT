@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": .{
-    "ip": "PindiBoisServer67.aternos.me:21341",
-    "port": 21341,
-    "version": "1.21.1"
+    "ip": "VenomStrikeXOG.aternos.me",
+    "port": 61632,
+    "version": "1.21"
   },
   "position": {
     "enabled": true,
